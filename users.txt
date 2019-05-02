@@ -1,0 +1,8 @@
+--------------------User file!--------------------
+-------------------User Details-------------------
+Script started at : 15:03:58
+Username:  gnats
+Full name:  Gnats Bug-Reporting (admin)
+Home directory:  /var/lib/gnats
+Current Date and time is: 15:04:02 Thursday 02/May/2019
+--------------------------------------------------
