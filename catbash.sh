@@ -101,7 +101,7 @@ echo "-------------------User Details-------------------" >> users.txt
 echo "Script started at :" "$startTime" >> users.txt
 echo "Username: ""$userName" >> users.txt
 echo "Full name: ""$userForename" "$userSurname" >> users.txt
-echo "Home directory: " "$homeDir" >> users.txt
+echo "Home directory:" "$homeDir" >> users.txt
 echo "Current Date and time is: $(date +%R:%S\ %A\ %d/%B/%Y)" >> users.txt
 #Time format is time:Seconds-day-month-day of the month-year
 echo "--------------------------------------------------" >> users.txt
