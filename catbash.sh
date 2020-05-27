@@ -114,7 +114,7 @@ endTimer="$SECONDS"
 duration=$(( endTimer - scriptTimer )) #Calulates the duration of the session
 
 #Says goodbye and tells user the duration of the session
-echo "Thank yo for using catbash! You have been using it for $duration seconds"
+echo "Thank you for using catbash! You have been using it for $duration seconds"
 
 #Exit
 exit 0
